@@ -1,24 +1,24 @@
-## 👋 Hey, I'm [Your Name]
+## 👋 Hey, I'm Iqra Azhar
 
-I'm a **Front-End Developer** specializing in **[your main tech: React / Next.js / Vanilla JS / etc.]**, focused on building **clean, responsive, and user-friendly web experiences**.
+I'm a **Front-End Developer** specializing in **[HTML, CSS, JavaScript, BootStrap, JQuery]**, focused on building **clean, responsive, and user-friendly web experiences**.
 
-I enjoy turning **designs into pixel-perfect interfaces**, writing **maintainable code**, and constantly learning new tools in the front-end ecosystem.
+I enjoy turning **designs into pixel-perfect interfaces**, **making small interactive projects**, writing **maintainable code**, and constantly learning new tools in the front-end ecosystem.
 
 ---
 
 ### 🧠 What I Work With
 
-- **Languages:** [HTML, CSS, JavaScript, TypeScript]
-- **Frameworks / Libraries:** [React, Next.js, Vue, etc.]
-- **Styling:** [Tailwind CSS, SCSS, CSS Modules]
-- **Tools:** [Git, GitHub, Vite, Figma, ESLint]
+- **Languages:** [HTML, CSS, JavaScript, BootStrap]
+- **Frameworks / Libraries:** [JQuery]
+- **Styling:** [CSS]
+- **Tools:** [Git, GitHub, Figma]
 
 ---
 
 ### 🚀 What I'm Currently Doing
 
-- 🔭 Working on **[project or idea you're building]**
-- 🌱 Learning **[tech you're improving at]**
+- 🔭 Working on **[E-project]**
+- 🌱 Learning **[GIT AND GITHUB, Figma]**
 - 🎯 Focusing on **[performance, accessibility, animations, etc.]**
 
 ---
@@ -34,11 +34,11 @@ I enjoy turning **designs into pixel-perfect interfaces**, writing **maintainabl
 
 ### 📫 Let's Connect
 
-- 🌐 Portfolio: [your-portfolio-link]
-- 💼 LinkedIn: [your-linkedin-link]
-- 🐦 Twitter/X: [your-handle]
-- 📧 Email: [your-email]
+- 🌐 Portfolio: [...]
+- 💼 LinkedIn: [...]
+- 🐦 Twitter/X: [...]
+- 📧 Email: [iqraiqqa88@gmail.com]
 
 ---
 
-> “_[Optional quote or personal line — keep it short]_”
+“I enjoy solving problems and turning designs into real products.”
